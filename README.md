@@ -68,7 +68,7 @@ Optional Keystone Engine (https://www.keystone-engine.org) can be installed for 
 
 ### How to install
 
-### Linux & MacOS
+#### Linux & MacOS
 
 ```
 cp lldbinit.py ~
@@ -77,10 +77,6 @@ echo "command script import  ~/lldbinit.py" >>~/.lldbinit
 
 #### Windows
 ```
-1- Create file at C:\Users\<USERNAME>\.lldbinit
-2- add line "command script import C:\Path\To\lldbinit.py" into C:\Users\<USERNAME\.lldbinit 
-
-###
 cd C:\Users\<UERNAME>\
 echo "command script import C:\path\to\lldbinit.py" >> .lldbinit
 ```
