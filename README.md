@@ -103,9 +103,9 @@ There are some user configurable options in the header. You can also use the ena
   <img src="images/conditionalarm64.png">
 </p>
 
-# WINDOWS
+# Windows
 <p align="center">
-  <img src="images/Capture.PNG">
+  <img src="images/Capture.png">
 </p>
 
 ### Helpful commands and shortcuts
